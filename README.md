@@ -15,3 +15,6 @@
   chmod +x * 
   
   ./report.sh
+
+
+NOT WORKING NOW
